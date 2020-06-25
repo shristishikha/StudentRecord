@@ -1,0 +1,11 @@
+C:\Users\Shristi Shikha\Desktop\cs\DA1\DA1\bin\Debug\DA1.exe.config
+C:\Users\Shristi Shikha\Desktop\cs\DA1\DA1\obj\Debug\DA1.csprojResolveAssemblyReference.cache
+C:\Users\Shristi Shikha\Desktop\cs\DA1\DA1\obj\Debug\DA1.Form1.resources
+C:\Users\Shristi Shikha\Desktop\cs\DA1\DA1\obj\Debug\DA1.Properties.Resources.resources
+C:\Users\Shristi Shikha\Desktop\cs\DA1\DA1\obj\Debug\DA1.csproj.GenerateResource.Cache
+C:\Users\Shristi Shikha\Desktop\cs\DA1\DA1\bin\Debug\DA1.exe
+C:\Users\Shristi Shikha\Desktop\cs\DA1\DA1\bin\Debug\DA1.pdb
+C:\Users\Shristi Shikha\Desktop\cs\DA1\DA1\obj\Debug\DA1.exe
+C:\Users\Shristi Shikha\Desktop\cs\DA1\DA1\obj\Debug\DA1.pdb
+C:\Users\Shristi Shikha\Desktop\cs\DA1\DA1\obj\Debug\DA1.Form2.resources
+C:\Users\Shristi Shikha\Desktop\cs\DA1\DA1\obj\Debug\DA1.Form3.resources
